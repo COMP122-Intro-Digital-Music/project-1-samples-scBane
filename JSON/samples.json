@@ -1,1 +1,20 @@
-[ ]
+[ ][
+  {
+    "name": "PeopleTalking",
+    "file": "samples/PeopleTalking.mp3",
+    "bpm": "120",
+    "loop": "29s"
+  },
+  {
+    "name": "Clicking",
+    "file": "samples/Clickingmp3mp3",
+    "bpm": "240",
+    "loop": "32s"
+  },
+  {
+    "name": "Nightingale",
+    "file": "samples/NightingaleMp3mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
