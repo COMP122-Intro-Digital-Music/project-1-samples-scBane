@@ -7,13 +7,13 @@
   },
   {
     "name": "Clicking",
-    "file": "samples/Clicking.mp3",
+    "file": "samples/Clickingmp3mp3",
     "bpm": "240",
     "loop": "32s"
   },
   {
     "name": "Nightingale",
-    "file": "samples/Nightingale.mp3",
+    "file": "samples/NightingaleMp3mp3",
     "bpm": "120",
     "loop": "1m"
   }
