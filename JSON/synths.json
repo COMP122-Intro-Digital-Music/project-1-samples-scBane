@@ -1,1 +1,52 @@
-[ ]
+[
+  {
+    "name": "Science Fiction",
+    "type": "Synth",
+    "settings": {
+      "volume": "-12",
+      "detune": "5",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  },
+  {
+    "name": "Dream Synth",
+    "type": "Synth",
+    "settings": {
+      "volume": "-5",
+      "detune": "3",
+      "portamento": "0.05",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.5",
+        "decayCurve": "linear",
+        "release": "1.4",
+        "releaseCurve": "ripple",
+        "sustain": "0.9"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  }
+]
