@@ -1,1 +1,22 @@
-[ ]
+[
+  {
+    "name": "Kick Poly",
+    "pitch": "A3",
+    "pattern": "1000110"
+  },
+  {
+    "name": "Snare",
+    "pitch": "B3",
+    "pattern": "1000"
+  },
+  {
+    "name": "Beep",
+    "pitch": "D#4",
+    "pattern": "00000010"
+  },
+  {
+    "name": "",
+    "pitch": "F#4",
+    "pattern": "0000000011110000"
+  }
+]
